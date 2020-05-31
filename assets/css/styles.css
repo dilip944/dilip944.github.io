@@ -1,0 +1,47 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #000000;
+  opacity: 0.8;
+}
+
+.navbar-dark .navbar-brand {
+  color: #FF0000;
+  font-size: 32px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 16px;
+}
+
+body {
+  padding-top: 80px;
+}
+
+.product {
+  padding-top: 80px;
+  text-align: center;
+}
+
+.product h1 {
+  font-size: 92px;
+  font-weight: bold;
+  color: #FF0000;
+  font-style: oblique;
+  margin-top: 90px;
+}
+
+.product h2 {
+  font-size: 52px;
+  font-weight: 300;
+}
+
+.product .links {
+  font-size: 29px;
+  margin-bottom: 10px;
+  color: #f77f00;
+}
+
+.product .links .learn-more {
+  margin-right: 25px;
+}
+
